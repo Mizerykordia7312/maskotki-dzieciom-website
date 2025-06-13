@@ -2,9 +2,9 @@
 
 This repository is **only used for deployment** purposes (e.g. GitHub Pages) and does not contain the source code.
 
-👉 You can view the full source code of the project here: [https://github.com/Mizerykordia7312/md-charity-website]
+👉 You can view the full source code of the project here: [Main Repository](https://github.com/Mizerykordia7312/md-charity-website)
 
-🌐 The live website is available at: [https://mizerykordia7312.github.io/maskotki-dzieciom-website/]
+🌐 The live website is available at: [Open site](https://mizerykordia7312.github.io/maskotki-dzieciom-website/)
 
 ---
 
